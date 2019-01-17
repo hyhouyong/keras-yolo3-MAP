@@ -32,9 +32,8 @@
 
 
         mAP: 20.18%
-reference：
-        (https://github.com/gustavovaliati/keras-yolo3)
-        (https://github.com/Cartucho/mAP)
-        (https://github.com/rafaelpadilla/Object-Detection-Metrics)
+reference：https://github.com/gustavovaliati/keras-yolo3
+           https://github.com/Cartucho/mAP
+           https://github.com/rafaelpadilla/Object-Detection-Metrics
         
   
