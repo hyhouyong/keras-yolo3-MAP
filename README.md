@@ -1,5 +1,6 @@
 # keras-yolo3-MAP
 # 详细教你如何使用测试图片进行MAP评估
+![](https://github.com/hyhouyong/keras-yolo3-MAP/blob/master/results/banshou.png)
 ## groundtruths
 ### 1.生成真实值的框体文件(存放在from_kerasyolo3/version_...):
         python convert_keras-yolo3.py --gt test.txt 
