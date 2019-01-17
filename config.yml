@@ -1,0 +1,8 @@
+train_path: train.txt
+test_path: test.txt
+classes_path: model_data/voc_classes.txt
+anchors_path: model_data/yolo_anchors.txt
+model_name: my_model
+log_dir: logs/000/
+dataset_name: pti01
+short_comment: test
