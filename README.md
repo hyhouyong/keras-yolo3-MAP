@@ -3,6 +3,8 @@
 ![](https://github.com/hyhouyong/keras-yolo3-MAP/blob/master/results/banshou.png)
 # 前提：
         git clone https://github.com/hyhouyong/keras-yolo3.git
+* 博客园地址：
+        https://www.cnblogs.com/houyong/p/10273351.html
 ## groundtruths
 ### 1.生成真实值的框体文件(存放在from_kerasyolo3/version_...):
         python convert_keras-yolo3.py --gt test.txt 
